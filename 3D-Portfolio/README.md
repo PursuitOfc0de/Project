@@ -130,7 +130,7 @@ Build the project using `npm run build` and deploy the generated `dist/` directo
 B.Tech Computer Science and Engineering Student
 
 - **LinkedIn:** [Rishabh Kumar](https://www.linkedin.com/in/rishabh-kumar-35169026a)
-- **Project:** [Code Bridge — Live Demo](https://code-bridgeeducation.netlify.app/)
+- **Project:** [ Live Demo](https://portfolio-ris.netlify.app/)
 
 ---
 
