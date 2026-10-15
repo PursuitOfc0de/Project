@@ -268,7 +268,7 @@ function App() {
             {/* Download Resume PDF */}
             <a
               className="resume-btn"
-              href="/My resume.pdf"
+              href="/resume.pdf"
               download="Rishabh-Kumar-Resume.pdf"
             >
               <span>↓</span> Download Resume
